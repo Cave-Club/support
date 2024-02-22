@@ -11,4 +11,5 @@ It is recommend that you make full use of iCloud (or other backup) to ensure you
 Apple have very strict vetting process for applications that they offer for sale.  Having passed an application as compliant with their policies it is not unknown for Apple to later withdraw that application from sale, without notice, because of some change in their internal policies.  You may also be aware that Apple have the ability to remotely erase application(s) from a user's device.  With this in mind it is impossible for us to guarantee the continued availability of a purchase where the device provider retains ultimate control over the device content.
 
 App Support: 
-If you have any problem in running the application please contact us, with a details of the problem.
+If you have any problem in running the application please contact us at ccappleapp@gmail.com, with a details of the problem.
+Cave Club
